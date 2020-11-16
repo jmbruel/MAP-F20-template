@@ -112,7 +112,6 @@ All the features of version V1, plus:
 - We can choose in advance the number of questions to play
 - We will be able to have a "revision" mode, which only rests the questions on which we made a mistake
 
-:numbered:
 == Assessment and rating
 
 Here is the provisional scale:
