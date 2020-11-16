@@ -148,4 +148,4 @@ release:: build, automated testing, deploy (more details link:https://github.com
 
 - The materials for the course: http://bit.ly/innopolis-map
 - The initial quizgame: {quizgame}
-- Gitlab project related to this one: [To be annouced soon]
+- Gitlab project related to this one: https://gitlab.com/MiloGrabie/mpa2020-g4-kajm
