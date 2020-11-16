@@ -96,13 +96,12 @@ WARNING: These USs are only examples to start your Product Backlog, but the abov
 
 - As a teacher, I want to be able to simply import the questions / answers ({CSV}, {json}, {GIFT} or {AIKEN} files for example) - business priority *{must}*.
 
-- As a teacher, I want to be able to simply export the questions / answers in a format copmpatible with Moodle ({CSV}, {GIFT} or {AIKEN} files for example) - business priority *{must}*.
+- As a teacher, I want to be able to simply export the questions / answers in a format compatible with Moodle ({CSV}, {GIFT} or {AIKEN} files for example) - business priority *{must}*.
 
 - As a player, I want to be able to know right away if I gave the correct answer - business priority *{should}*.
 
 - As a teacher, I want to have the list of players and their score - business priority *{could}*.
 
-:numbered:
 === Customer functionalities (Product Backlog) V2
 
 All the features of version V1, plus:
@@ -144,7 +143,7 @@ Sorry for the French in the following explanations:
 
 issues:: the way the goals have been captured (more details link:https://github.com/xblanc33/QualiteDev/blob/master/issue[here])
 
-tasks:: the development tasks related to issue and how easy it is to got from one to the other link:https://github.com/xblanc33/QualiteDev/blob/master/tache[here])
+tasks:: the development tasks related to the issues and how easy it is to get from one to the other link:https://github.com/xblanc33/QualiteDev/blob/master/tache[here])
 
 tests:: verification activities (more details link:https://github.com/xblanc33/QualiteDev/blob/master/test[here])
 source code:: quality attributes (more details link:https://github.com/xblanc33/QualiteDev/blob/master/code[here])
