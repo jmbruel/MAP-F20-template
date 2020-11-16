@@ -108,7 +108,7 @@ All the features of version V1, plus:
 
 - Questions can have an associated image
 - Questions have additional attributes (categories, level of difficulty)
-- We can play with several (against each other)
+- We can play with several players (against each other)
 - We can choose in advance the number of questions to play
 - We will be able to have a "revision" mode, which only rests the questions on which we made a mistake
 
